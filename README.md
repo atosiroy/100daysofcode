@@ -1,4 +1,4 @@
-### hii, this is Atosi 👩🏻‍💻
+### hii, welcome to 100daysofcode 👩🏻‍💻
 <a href="https://www.linkedin.com/in/atosiroy/">
   <img align="left" alt="Atosi's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
