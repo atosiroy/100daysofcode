@@ -14,7 +14,7 @@ This repo is dedicated to the amazing [100 Days Of Code](https://www.100daysofco
 - tweet your progress every day with the #100DaysOfCode hashtag
 </p>
 
-### Resources that I'm following rn
+Resources that I'm following rn
 
 - [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - [The Complete 2023 Web Development Bootcamp @ Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
